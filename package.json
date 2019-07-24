@@ -12,7 +12,8 @@
     "typescript": "^3.5.3"
   },
   "scripts": {
-    "start": "tsc && node ./build/server.js",
+    "build": "tsc",
+    "start": "node ./build/server.js",
     "test": "tsc && mocha"
   },
   "devDependencies": {
