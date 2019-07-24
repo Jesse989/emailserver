@@ -5,5 +5,6 @@ declare namespace Express {
   export interface Response {
     status: any;
     send: any;
+    header: any;
   }
 }
