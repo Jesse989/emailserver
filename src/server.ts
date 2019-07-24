@@ -15,6 +15,12 @@ app.use(bodyParser.json());
 app.use('/', express.static('build'));
 
 app.post('/api', async (req: Express.Request, res: Express.Response) => {
+  res.header('Access-Control-Allow-Origin', '*'); // update to match the domain you will make the request from
+  res.header(
+    'Access-Control-Allow-Headers',
+    'Origin, X-Requested-With, Content-Type, Accept'
+  );
+
   let { first, last, email, website, budget, description } = req.body;
   // create email:
 
