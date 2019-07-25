@@ -14,7 +14,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./build/server.js",
-    "test": "tsc && mocha"
+    "test": "tsc && mocha --timeout 10000"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
