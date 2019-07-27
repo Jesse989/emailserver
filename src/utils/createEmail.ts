@@ -39,7 +39,7 @@ export function createEmail({
         <!-- BEGIN BODY -->
           <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;">
             <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              <td valign="middle" class="hero bg_white" background='https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg' style="background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg)!important;background-size: cover!important;height: 360px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #ffffff;position: relative;z-index: 0;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+              <td valign="middle" class="hero bg_white" background='https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg' style="background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg)!important;background-size: cover!important;height: 360px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: black;position: relative;padding: 30px; z-index: 0;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                 <div class="overlay" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;content: '';width: 100%;background-color: #000000;z-index: -1;opacity: .3;"></div>
                 <table style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                   <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
@@ -93,9 +93,9 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;padding-left: 5px;padding-right: 5px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Contact Info</h3>
-                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;color: rgba(255,255,255,.5);padding-inline-start: 0px">
-                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">10915 W 44th Ave, Wheat Ridge, Colorado, USA</span></li>
-                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">+1 512 663 7936</span></li>
+                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;padding-inline-start: 0px">
+                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;color: rgba(255,255,255,.5);"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">10915 W 44th Ave, Wheat Ridge, Colorado, USA</span></li>
+                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;;color: rgba(255,255,255,.5);"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">+1 512 663 7936</span></li>
                             </ul>
                           </td>
                         </tr>
@@ -107,9 +107,9 @@ export function createEmail({
                           <td style="text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Useful Links</h3>
                             <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;">
-                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">About</a></li>
-                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com/portfolio" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">Portfolio</a></li>
-                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.github.com/Jesse989" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">Github</a></li>
+                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: white;">About</a></li>
+                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com/portfolio" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: white;">Portfolio</a></li>
+                              <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.github.com/Jesse989" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: white;">Github</a></li>
                             </ul>
                           </td>
                         </tr>
@@ -120,14 +120,14 @@ export function createEmail({
               </td>
             </tr><!-- end: tr -->
             <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-              <td valign="middle" class="bg_black footer email-section" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #000000;padding: 14px;color: rgba(255,255,255,.5);mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+              <td valign="middle" class="bg_black footer email-section" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #000000;padding: 14px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                 <table style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                   <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                     <td valign="top" width="33.333%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                       <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
-                            <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">&copy; 2019 Jesse Neumann. All Rights Reserved</p>
+                            <p style="color: rgba(255,255,255,.5);-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">&copy; 2019 Jesse Neumann. All Rights Reserved</p>
                           </td>
                         </tr>
                       </table>
