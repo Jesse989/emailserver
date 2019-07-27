@@ -83,7 +83,7 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;p-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">About</h3>
-                            <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;rgba(255,255,255,.5)">Jesse spends his time creating games and applications. When he's not on his computer he can be found hiking, mountain biking, or canyoneering.</p>
+                            <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: rgba(255,255,255,.5)">Jesse spends his time creating games and applications. When he's not on his computer he can be found hiking, mountain biking, or canyoneering.</p>
                           </td>
                         </tr>
                       </table>
@@ -93,7 +93,7 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;padding-left: 5px;padding-right: 5px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Contact Info</h3>
-                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;rgba(255,255,255,.5)">
+                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;color: rgba(255,255,255,.5);padding-inline-start: 0px">
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">10915 W 44th Ave, Wheat Ridge, Colorado, USA</span></li>
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">+1 512 663 7936</span></li>
                             </ul>
