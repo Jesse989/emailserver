@@ -40,7 +40,7 @@ export function createEmail({
           <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;">
             <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
               <td valign="middle" class="hero bg_white" background='https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg' style="background-image: url(https://cdn.stocksnap.io/img-thumbs/960w/6THN4SX8IY.jpg)!important;background-size: cover!important;height: 360px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #ffffff;position: relative;z-index: 0;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
-                <div class="overlay" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;content: '';width: 100%;background: #000000;z-index: -1;opacity: .3;"></div>
+                <div class="overlay" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;position: absolute;top: 0;left: 0;right: 0;bottom: 0;content: '';width: 100%;background-color: #000000;z-index: -1;opacity: .3;"></div>
                 <table style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                   <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                     <td style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;"> 
@@ -66,7 +66,7 @@ export function createEmail({
                     <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">You are comfortable spending $${budget} on this project.</p>
                     <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">The brief description "${description}" is accurate.</p>
                   </div>
-                  <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;margin-top: 0;font-weight: 400;font-size: 28px;line-height: 1.4;">What next?</h2>
+                  <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;font-weight: 400;font-size: 28px;line-height: 1.4;">What next?</h2>
                   <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">If everything looks good then don't worry. Just sit back and wait, I will be in touch very soon.</p>
                   <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">If you don't feel like waiting for me to check my messages, shoot me a text or a phone call. My contact info is in the footer below.</p>
                 </div>
@@ -83,7 +83,7 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;p-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">About</h3>
-                            <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Jesse spends his time creating games and applications. When he's not on his computer he can be found hiking, mountain biking, or canyoneering.</p>
+                            <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;rgba(255,255,255,.5)">Jesse spends his time creating games and applications. When he's not on his computer he can be found hiking, mountain biking, or canyoneering.</p>
                           </td>
                         </tr>
                       </table>
@@ -93,7 +93,7 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;padding-left: 5px;padding-right: 5px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Contact Info</h3>
-                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;">
+                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;rgba(255,255,255,.5)">
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">10915 W 44th Ave, Wheat Ridge, Colorado, USA</span></li>
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">+1 512 663 7936</span></li>
                             </ul>
@@ -106,7 +106,7 @@ export function createEmail({
                         <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                           <td style="text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                             <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Useful Links</h3>
-                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;">
+                            <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0;">
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">About</a></li>
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com/portfolio" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">Portfolio</a></li>
                               <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.github.com/Jesse989" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">Github</a></li>
