@@ -348,7 +348,7 @@ export function createEmail({
           </tr><!-- end tr -->
           <tr>
             <td class="bg_white email-section" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #ffffff;padding: 14pcx;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
-              <div class="heading-section" style="text-align: center;padding: 0 30px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              <div class="heading-section" style="text-align: center;padding: 30px 0 30px 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                 <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;margin-top: 0;font-weight: 400;font-size: 28px;line-height: 1.4;">I specialize in turning great ideas like yours into reality.</h2>
                 <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">I'm excited for the opportunity to work with you, and I guarantee you will be impressed by my professionalism and attention to detail.</p>
                 <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Please take a second and review the contact information you sent me. If you see anything out of the ordinary please let me know.</p>
@@ -362,7 +362,7 @@ export function createEmail({
             </td>
           </tr>
             <td class="bg_white email-section" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #ffffff;padding: 14px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
-                <div class="heading-section" style="text-align: center;padding: 0 30px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <div class="heading-section" style="text-align: center;padding: 30px 0 30px 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                   <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;margin-top: 0;font-weight: 400;font-size: 28px;line-height: 1.4;">What next?</h2>
                   <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">If everything looks good then don't worry. Just sit back and wait, I will be in touch very soon.</p>
                   <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">If you don't feel like waiting for me to check my messages, shoot me a text or a phone call. My contact info is in the footer below.</p>
@@ -380,7 +380,7 @@ export function createEmail({
                   <td valign="top" width="33.333%" style="padding-top: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                       <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-                        <td style="text-align: left;padding-right: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                        <td style="text-align: center;p-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                           <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">About</h3>
                           <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Jesse spends his time creating games and applications. When he's not on his computer he can be found hiking, mountain biking, or canyoneering.</p>
                         </td>
@@ -390,7 +390,7 @@ export function createEmail({
                   <td valign="top" width="33.333%" style="padding-top: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                       <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-                        <td style="text-align: left;padding-left: 5px;padding-right: 5px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                        <td style="text-align: center;padding-left: 5px;padding-right: 5px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                           <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Contact Info</h3>
                           <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;">
                             <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><span class="text" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">10915 W 44th Ave, Wheat Ridge, Colorado, USA</span></li>
@@ -403,7 +403,7 @@ export function createEmail({
                   <td valign="top" width="33.333%" style="padding-top: 20px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                       <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-                        <td style="text-align: left;padding-left: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                        <td style="text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                           <h3 class="heading" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #ffffff;margin-top: 0;font-weight: 400;font-size: 20px;">Useful Links</h3>
                           <ul style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;">
                             <li style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;list-style: none;margin-bottom: 10px;"><a href="https://www.jesseneumann.com" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: rgba(255,255,255,1);">About</a></li>
@@ -425,7 +425,7 @@ export function createEmail({
                   <td valign="top" width="33.333%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                     <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;margin: 0 auto !important;">
                       <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
-                        <td style="text-align: left;padding-right: 10px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                        <td style="text-align: center;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
                           <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">&copy; 2019 Jesse Neumann. All Rights Reserved</p>
                         </td>
                       </tr>
