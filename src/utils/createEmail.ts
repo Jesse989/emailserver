@@ -345,6 +345,8 @@ export function createEmail({
                 </tr>
               </table>
             </td>
+          </tr><!-- end tr -->
+          <tr>
             <td class="bg_white email-section" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background: #ffffff;padding: 14pcx;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
               <div class="heading-section" style="text-align: center;padding: 0 30px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                 <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;margin-top: 0;font-weight: 400;font-size: 28px;line-height: 1.4;">I specialize in turning great ideas like yours into reality.</h2>
