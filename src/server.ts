@@ -21,8 +21,6 @@ app.use(function(req, res, next) {
 
 app.use(bodyParser.json());
 
-app.use('/', express.static('build'));
-
 app.post('/api', async (req: Express.Request, res: Express.Response) => {
   let { first, last, email, website, budget, description } = req.body;
   // create email:
