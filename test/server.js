@@ -1,6 +1,8 @@
 const chai = require('chai');
 const chaiHttp = require('chai-http');
-const { app } = require('../build/server');
+const {
+  app
+} = require('../build/server');
 
 const should = chai.should();
 
@@ -16,8 +18,6 @@ describe('email server', () => {
       first: 'Jesse',
       last: 'Neumann',
       email: 'jesseneumann@gmail.com',
-      website: 'www.yahoo.com',
-      budget: '12000',
       spam: '3',
       description: 'I want some stuff'
     };
@@ -33,7 +33,9 @@ describe('email server', () => {
         res.should.have.status(200);
         res.body.should.be.a('object');
         res.body.should.have.property('status');
-        res.body.should.eql({ status: 'success' });
+        res.body.should.eql({
+          status: 'success'
+        });
         done();
       });
   });
@@ -50,7 +52,9 @@ describe('email server', () => {
         res.should.have.status(505);
         res.body.should.be.a('object');
         res.body.should.have.property('status');
-        res.body.should.eql({ status: 'failed' });
+        res.body.should.eql({
+          status: 'failed'
+        });
         done();
       });
   });
@@ -66,7 +70,9 @@ describe('email server', () => {
         res.should.have.status(505);
         res.body.should.be.a('object');
         res.body.should.have.property('status');
-        res.body.should.eql({ status: 'failed' });
+        res.body.should.eql({
+          status: 'failed'
+        });
         done();
       });
   });

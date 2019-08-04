@@ -69,8 +69,6 @@ export function createEmail({
                   <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Please take a second and review the contact information you sent me. If you see anything out of the ordinary please let me know.</p>
                   <div style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
                     <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Your name is ${first} ${last} and the best way to reach you is by emailing you at ${email}.</p>
-                    <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">I can get an idea of your work and projects on the web at <a href="https://${website}" target="_blank" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: #448ef6;">${website}</a>.</p>
-                    <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">You are comfortable spending $${budget} on this project.</p>
                     <p style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">The brief description "${description}" is accurate.</p>
                   </div>
                   <h2 style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'Work Sans', sans-serif;color: #000000;font-weight: 400;font-size: 28px;line-height: 1.4;">What next?</h2>

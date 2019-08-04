@@ -17,7 +17,6 @@ app.use(function (req, res, next) {
     next();
 });
 app.use(body_parser_1.default.json());
-app.use('/', express_1.default.static('build'));
 app.post('/api', async (req, res) => {
     let { first, last, email, website, budget, description } = req.body;
     try {
